@@ -1,0 +1,1 @@
+StudentDto(id=112452021, nombres=Maria Jose, apellidos=Polo Murillo, telefono=323343223, subjectStudent=[SubjectStudentDTO(id_Subject_Entity=null, studentDto=null, subjectDto=SubjectDto(id=2, nameSubject=null)), SubjectStudentDTO(id_Subject_Entity=null, studentDto=null, subjectDto=SubjectDto(id=3, nameSubject=null))])
